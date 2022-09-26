@@ -17,3 +17,10 @@ header a {
 }
 
 /* Main */
+
+/* Footer */
+
+footer {
+    text-align: right;
+    color: gray;
+}
