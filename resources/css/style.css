@@ -8,6 +8,7 @@ html {
 header {
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 
 header h1 {
@@ -26,6 +27,7 @@ header a {
 main {
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 
 main .icon {
